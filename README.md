@@ -16,6 +16,8 @@ http://localhost/phpmyadmin/<p>
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab3_php_database/ <p>
 
+### Membuat Database
+  CREATE DATABASE latihan1;
 ### Membuat file koneksi database
 Buat file baru dengan nama koneksi.php<p>
 ```
