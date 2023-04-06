@@ -12,6 +12,7 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 http://localhost/phpmyadmin/<p>
 ### Membuat Database: Studi Kasus Data Barang
 ![Gambar 1](gambar/6.png)
+  
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab3_php_database/ <p>
 
