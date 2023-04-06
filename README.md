@@ -18,6 +18,17 @@ http://localhost/lab3_php_database/ <p>
 
 ### Membuat Database
   CREATE DATABASE latihan1;
+### Membuat Tabel
+  ![Gambar 1](gambar/7.png)
+  
+### Menambahkan Data
+  ![Gambar 1](gambar/8.png)
+  
+### Membuat Program CRUD
+Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
+  ![Gambar 1](gambar/9.png)
+### Tampilan Web
+  ![Gambar 1](gambar/10.png)
 ### Membuat file koneksi database
 Buat file baru dengan nama koneksi.php<p>
 ```
@@ -36,6 +47,7 @@ die();
 ```
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil,
 uncomment pada perintah echo “koneksi berhasil”;<p>
+  ![Gambar 1](gambar/11.png)
 
 ### Membuat file index untuk menampilkan data (Read)
   
@@ -90,6 +102,8 @@ $row['nama'];?>"></td>
 </div>
 </body>
 </html>
+  
+  ![Gambar 1](gambar/12.png)
 ```
 
 ### Menambah Data (Create)
@@ -173,6 +187,7 @@ data">
 </div>
 </body>
 </html>
+  ![Gambar 1](gambar/13.png)
 ```
 
 
@@ -279,6 +294,7 @@ $data['id_barang'];?>" />
 </div>
 </body>
 </html>
+![Gambar 1](gambar/14.png)
 ```
 
 
