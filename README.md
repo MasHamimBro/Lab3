@@ -6,7 +6,7 @@ Untuk mulai membuat aplikasi CRUD sederhana, yang Anda butuhkan hanyalah server 
 Gunakan MySQL. Pastikan server MySQL dapat dijalankan melalui XAMPP.<p>
 ### Menjalankan MySQL Server
 Untuk menjalankan MySQL Server dari menu XAMPP Contol.<p>
-  ![Gambar 11](gambar/1.jpg)
+  ![Gambar 11](gambar/laut.jpg)
 ### Mengakses MySQL Client menggunakan PHP MyAdmin
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser:
 http://localhost/phpmyadmin/<p>
