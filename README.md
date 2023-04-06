@@ -11,7 +11,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Contol.<p>
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser:
 http://localhost/phpmyadmin/<p>
 ### Membuat Database: Studi Kasus Data Barang
-
+![Gambar 1](gambar/6.png)
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab3_php_database/ <p>
 
