@@ -292,8 +292,8 @@ $data['id_barang'];?>" />
 </div>
 </body>
 </html>
-![Gambar 1](gambar/14.png)
 ```
+![Gambar 1](gambar/14.png)
 
 
 ### Menghapus Data (Delete)
@@ -307,5 +307,6 @@ $result = mysqli_query($conn, $sql);
 header('location: index.php');
 ?>
 ```
-
+Hasilnya seperti ini
+![Gambar 1](gambar/17.png)
 ### Terima Kasih
