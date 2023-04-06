@@ -102,9 +102,8 @@ $row['nama'];?>"></td>
 </div>
 </body>
 </html>
-  
-  ![Gambar 1](gambar/12.png)
 ```
+  ![Gambar 1](gambar/12.png)
 
 ### Menambah Data (Create)
 Buat file baru dengan nama tambah.php<p>
@@ -187,9 +186,8 @@ data">
 </div>
 </body>
 </html>
-  ![Gambar 1](gambar/13.png)
 ```
-
+![Gambar 1](gambar/13.png)
 
 ### Mengubah Data (Update)
 Buat file baru dengan nama ubah.php<p>
