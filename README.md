@@ -308,5 +308,5 @@ header('location: index.php');
 ?>
 ```
 Hasilnya seperti ini
-![Gambar 1](gambar/17.png)
+![Gambar 1](gambar/15.png)
 ### Terima Kasih
